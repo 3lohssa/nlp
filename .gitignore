@@ -41,6 +41,8 @@ daily_evening_news_result_*.csv
 gmail_mapping_result_*.csv
 keyword_result_*.csv
 wordcloud_*.png
+Keywords/wordcloud.png
+static/resource/
 
 # Matplotlib cache
 .matplotlib/
